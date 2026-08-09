@@ -16,6 +16,43 @@
 </p>
 
 
+
+
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN">
+    <img src="https://img.shields.io/badge/LINKEDIN-555555?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a><a href="https://github.com/segunofe">
+    <img src="https://img.shields.io/badge/CONNECT-1976D2?style=for-the-badge&logo=github&logoColor=white" />
+  </a><a href="https://medium.com/@YOUR-MEDIUM">
+    <img src="https://img.shields.io/badge/MEDIUM-555555?style=for-the-badge&logo=medium&logoColor=white" />
+  </a><a href="https://YOUR-ARTICLES-LINK">
+    <img src="https://img.shields.io/badge/ARTICLES-222222?style=for-the-badge" />
+  </a><a href="https://stackoverflow.com/users/YOUR-ID">
+    <img src="https://img.shields.io/badge/STACK%20OVERFLOW-555555?style=for-the-badge&logo=stackoverflow&logoColor=white" />
+  </a><a href="https://YOUR-PORTFOLIO.com">
+    <img src="https://img.shields.io/badge/PROFILE-F57C00?style=for-the-badge" />
+  </a>
+</p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ---
 
 ## 🚀 About Me
