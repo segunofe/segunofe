@@ -1,8 +1,8 @@
 <h1>Hi, I'm Segun 👋</h1>
 
-<h2 align="center">
+<h4 align="center">
   Cloud Architect · DevOps Engineer · Python · AWS · Azure · GCP · Oracle · Docker · Kubernetes · Terraform · Ansible ·  CI/CD · Cloud Architecture 
-</h2>
+</h4>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/segunofe/">
