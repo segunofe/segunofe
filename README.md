@@ -24,8 +24,7 @@
 
 ## 🚀 About Me
 
-💬 Ask me about Cloud Engineering, Python, Terraform,  Docker, Kubernetes, GitHub Actions, Azure DevOps, Jenkins  
-📍 Villach, Austria
+💬 I enjoy cloud engineering
 
 
 ## 🛠️ Tech Stack
@@ -45,6 +44,7 @@
   <br>
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white">
   <img src="https://img.shields.io/badge/Jenkins-2496ED?style=flat-square&logo=jenkins&logoColor=white">
+  <img src="https://img.shields.io/badge/Azure DevOps-326CE5?style=flat-square&logo=azuredevops&logoColor=white">
 </p>
 ---
 
