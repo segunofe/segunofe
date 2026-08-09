@@ -58,24 +58,24 @@ including networking, compute, databases and monitoring.
 
 ### 🛒 AWS E-Commerce Deployment
 
-Containerized and deployed a microservice e-commerce application
+Containerized and deployed a e-commerce application
 on AWS using Docker, Terraform and CI/CD.
 
-👉 [View Project](YOUR_REPO_LINK)
+👉 [View Project](https://github.com/segunofe/Deploy-Ecommerce-Website-In-AWS-Using-Terraform.git)
 
 ### 🔐 Google Cloud Threat Detection & Incident Response
 
 Implemented Google Cloud security infrastructure and threat
 detection capabilities using Cloud IDS and related services.
 
-👉 [View Project](YOUR_REPO_LINK)
+👉 [View Project](https://github.com/segunofe/Threat-Detection-Incident-Response-on-Google-Cloud.git)
 
 ### 🚀 GCP Infrastructure with Terraform
 
 Designed and provisioned Google Cloud infrastructure using
 Terraform and Infrastructure as Code.
 
-👉 [View Project](YOUR_REPO_LINK)
+👉 [View Project](https://github.com/segunofe/BuildInfrastructureWithTerraformOnGoogleCloud.git)
 
 ---
 
