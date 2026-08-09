@@ -14,20 +14,8 @@ Cloud Architect · Cloud Engineer · DevOps Engineer  · Python · AWS · Azure 
 
 ## 🚀 About Me
 
-Cloud Architect & DevOps Engineer passionate about designing and implementing scalable,
-secure and automated cloud infrastructure.
-
-- ☁️ Cloud: AWS, Google Cloud, Azure, Oracle 
-- 🏗️ Infrastructure as Code: Terraform
-- 🐳 Containers: Docker, Kubernetes, ECS, EKS, GKE
-- 🔄 CI/CD: GitHub Actions, Jenkins, Azure DevOps
-- 💻 Automation: Python, Bash, PowerShell
-- 📊 Monitoring: CloudWatch, Cloud Monitoring, Prometheus, Grafana
-- 🔐 Security: IAM, CloudTrail, Cloud IDS, secrets management
-
-Currently focused on cloud architecture, DevOps automation,
-Infrastructure as Code and reliable cloud-native deployments.
-
+💬 Ask me about Python, Docker, Terraform, Kubernetes, Github actions Gitlabci nats azure holmesgpt agents mcp servers metallbs
+📍 Villach, Austria
 ---
 
 ## 🛠️ Tech Stack
