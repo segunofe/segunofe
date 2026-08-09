@@ -1,7 +1,7 @@
 <h1>Hi, I'm Segun 👋</h1>
 
 <h3 align="center">
-Cloud Architect · Cloud Engineer · DevOps Engineer  · Python · AWS · Azure · GCP · Terraform · Ansible · Kubernetes · CI/CD · Cloud Architecture 
+Cloud Architect · Cloud Engineer · DevOps Engineer  · Python · AWS · Azure · GCP · Oracle · Terraform · Ansible · Kubernetes · CI/CD · Cloud Architecture 
 </h3>
 
 <p align="center">
@@ -17,7 +17,7 @@ Cloud Architect · Cloud Engineer · DevOps Engineer  · Python · AWS · Azure 
 Cloud Architect & DevOps Engineer passionate about designing and implementing scalable,
 secure and automated cloud infrastructure.
 
-- ☁️ Cloud: AWS, Google Cloud, Azure
+- ☁️ Cloud: AWS, Google Cloud, Azure, Oracle 
 - 🏗️ Infrastructure as Code: Terraform
 - 🐳 Containers: Docker, Kubernetes, ECS, EKS, GKE
 - 🔄 CI/CD: GitHub Actions, Jenkins, Azure DevOps
