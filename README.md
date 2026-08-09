@@ -22,7 +22,7 @@
 
 ## 🚀 About Me
 
-💬 I enjoy cloud engineering
+💬 Ask me about Cloud engineering, Python, Terraform, Docker, Kubernetes, GitHub Actions, Azure DevOps, Jenkins
 
 📍 Villach, Austria
 
