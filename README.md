@@ -54,7 +54,7 @@
 Reusable Terraform modules for provisioning AWS infrastructure,
 including networking, compute, databases and monitoring.
 
-👉 [View Project](YOUR_REPO_LINK)
+👉 [View Project](https://github.com/segunofe/ReusableTerraformModules.git)
 
 ### 🛒 AWS E-Commerce Deployment
 
