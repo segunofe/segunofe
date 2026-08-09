@@ -51,8 +51,8 @@
 
 ### 🛒 AWS E-Commerce Deployment
 
-Containerized and deployed a e-commerce application
-on AWS using Docker, Terraform and CI/CD.
+Containerized and deployed an e-commerce application
+on AWS using Docker, Terraform
 
 👉 [View Project](https://github.com/segunofe/Deploy-Ecommerce-Website-In-AWS-Using-Terraform.git)
 
