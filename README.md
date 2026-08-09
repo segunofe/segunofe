@@ -1,7 +1,7 @@
 <h1>Hi, I'm Segun 👋</h1>
 
 <h3 align="center">
-Cloud Architect · Cloud Engineer · DevOps Engineer  · Python · AWS · Azure · GCP · Oracle · Terraform · Ansible · Kubernetes · CI/CD · Cloud Architecture 
+Cloud Architect · DevOps Engineer · Python · AWS · Azure · GCP · Oracle · Terraform · Ansible · Kubernetes · CI/CD · Cloud Architecture 
 </h3>
 
 <p align="center">
