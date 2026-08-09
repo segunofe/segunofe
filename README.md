@@ -6,17 +6,16 @@ Cloud Architect · Cloud Engineer · DevOps Engineer  · Python · AWS · Azure 
 
 <p align="center">
   <a href="https://www.linkedin.com/in/segunofe/">LinkedIn</a> •
-  <a href="YOUR_PORTFOLIO_URL">Portfolio</a> •
-  <a href="YOUR_EMAIL">Email</a>
+  <a href="https://medium.com/@Segun-CloudDevOps">Portfolio</a> •
 </p>
 
 ---
 
 ## 🚀 About Me
 
-💬 Ask me about Python, Docker, Terraform, Kubernetes, Github actions Gitlabci nats azure holmesgpt agents mcp servers metallbs
-📍 Villach, Austria
----
+· 💬 Ask me about Python, Terraform,  Docker, Kubernetes, GitHub Actions, Azure DevOps, Jenkins 
+· 📍 Villach, Austria
+
 
 ## 🛠️ Tech Stack
 
@@ -68,26 +67,13 @@ Terraform and Infrastructure as Code.
 - 🏆 HashiCorp Certified: Terraform Associate
 
 ---
-
-## 📊 GitHub Stats
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=segunofe&show_icons=true&theme=default" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=segunofe&layout=compact" />
-
-</p>
-
 ---
 
 ## 🤝 Let's Connect
 
 I'm interested in Cloud Architecture, DevOps, Infrastructure
-Automation, Kubernetes and Cloud Engineering opportunities.
+Automation, Terraform, Docker, Kubernetes and Cloud Engineering opportunities.
 
-📧 Email: YOUR_EMAIL
+💼 LinkedIn: https://www.linkedin.com/in/segunofe/
 
-💼 LinkedIn: YOUR_LINKEDIN
-
-🌐 Portfolio: YOUR_PORTFOLIO
+🌐 Portfolio: https://medium.com/@Segun-CloudDevOps
