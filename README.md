@@ -14,7 +14,7 @@ Cloud Architect & DevOps Engineer · AWS · Azure . GCP · Terraform · Kubernet
 
 ## 🚀 About Me
 
-Cloud Architect & DevOps Engineer passionate about designing scalable,
+Cloud Architect & DevOps Engineer passionate about designing and implementing scalable,
 secure and automated cloud infrastructure.
 
 - ☁️ Cloud: AWS, Google Cloud, Azure
