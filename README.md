@@ -57,6 +57,16 @@ on AWS using Docker, Terraform
 👉 [View Project](https://github.com/segunofe/Deploy-Ecommerce-Website-In-AWS-Using-Terraform.git)
 
 
+### 🛒 CI/CD pipeline using GitHub Actions to automate deployment 
+
+Integrated the following to the pipeline:
+* Terraform to automatically provision and manage 45 AWS infrastructures (ECS, RDS, Security Groups...)
+* Vulnerability Scan using Trivy
+* Real-time deployment notifications via Slack API
+* Automated rollback to prevent application downtime
+
+👉 [View Project](https://github.com/segunofe/aws-projects/tree/main)
+
 
 ### ☁️ AWS Infrastructure with Terraform Modules 
 
