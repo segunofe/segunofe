@@ -10,31 +10,11 @@
   </a>
   <a href="https://medium.com/@Segun-CloudDevOps">
     <img src="https://img.shields.io/badge/MEDIUM-555555?style=flat-square&logo=medium&logoColor=white" />
-  <a href="https://YOUR-PORTFOLIO.com">
+  <a href="https://medium.com/@Segun-CloudDevOps">
     <img src="https://img.shields.io/badge/PROFILE-F57C00?style=flat-square&logoColor=white" />
   </a>
 </p>
 
-
-
-
-
-
-
-
-
-
-
-
-
-<h3 align="center">
-Cloud Architect · DevOps Engineer · Python · AWS · Azure · GCP · Oracle · Docker · Kubernetes · Terraform · Ansible ·  CI/CD · Cloud Architecture 
-</h3>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/segunofe/">LinkedIn</a> •
-  <a href="https://medium.com/@Segun-CloudDevOps">Portfolio</a> •
-</p>
 
 ---
 
