@@ -24,7 +24,7 @@
 
 ## 🚀 About Me
 
-* 💬 Ask me about Python, Terraform,  Docker, Kubernetes, GitHub Actions, Azure DevOps, Jenkins 
+* 💬 Ask me about Cloud Engineering, Python, Terraform,  Docker, Kubernetes, GitHub Actions, Azure DevOps, Jenkins 
 * 📍 Villach, Austria
 
 
