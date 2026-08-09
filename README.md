@@ -1,6 +1,40 @@
 <h1>Hi, I'm Segun 👋</h1>
 
 <h3 align="center">
+  Cloud Architect · DevOps Engineer · Python · AWS · Azure · GCP · Oracle · Docker · Kubernetes · Terraform · Ansible ·  CI/CD · Cloud Architecture 
+</h3>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN">
+    <img src="https://img.shields.io/badge/LINKEDIN-555555?style=flat-square&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/segunofe">
+    <img src="https://img.shields.io/badge/GITHUB-CONNECT-1976D2?style=flat-square&logo=github&logoColor=white" />
+  </a>
+  <a href="https://medium.com/@YOUR-MEDIUM">
+    <img src="https://img.shields.io/badge/MEDIUM-555555?style=flat-square&logo=medium&logoColor=white" />
+  </a>
+  <a href="https://stackoverflow.com/users/YOUR-ID">
+    <img src="https://img.shields.io/badge/STACK%20OVERFLOW-555555?style=flat-square&logo=stackoverflow&logoColor=white" />
+  </a>
+  <a href="https://YOUR-PORTFOLIO.com">
+    <img src="https://img.shields.io/badge/PROFILE-F57C00?style=flat-square&logoColor=white" />
+  </a>
+</p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+<h3 align="center">
 Cloud Architect · DevOps Engineer · Python · AWS · Azure · GCP · Oracle · Docker · Kubernetes · Terraform · Ansible ·  CI/CD · Cloud Architecture 
 </h3>
 
