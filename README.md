@@ -5,7 +5,7 @@ Cloud Architect & DevOps Engineer · AWS · GCP · Terraform · Kubernetes · CI
 </h3>
 
 <p align="center">
-  <a href="[YOUR_LINKEDIN_URL](https://www.linkedin.com/in/segunofe/)">LinkedIn</a> •
+  <a href="(https://www.linkedin.com/in/segunofe/)">LinkedIn</a> •
   <a href="YOUR_PORTFOLIO_URL">Portfolio</a> •
   <a href="YOUR_EMAIL">Email</a>
 </p>
