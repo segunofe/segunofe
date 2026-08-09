@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Segun Ofe 👋</h1>
 
 <h3 align="center">
-Cloud Architect & DevOps Engineer · AWS · GCP · Terraform · Kubernetes · CI/CD
+Cloud Architect & DevOps Engineer · AWS · Azure . GCP · Terraform · Kubernetes · CI/CD
 </h3>
 
 <p align="center">
