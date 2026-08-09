@@ -6,50 +6,17 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/segunofe/">
-    <img src="https://img.shields.io/badge/LINKEDIN-555555?style=flat-square&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://medium.com/@Segun-CloudDevOps">
-    <img src="https://img.shields.io/badge/MEDIUM-555555?style=flat-square&logo=medium&logoColor=white" />
-  <a href="https://medium.com/@Segun-CloudDevOps">
-    <img src="https://img.shields.io/badge/PROFILE-F57C00?style=flat-square&logoColor=white" />
-  </a>
-</p>
-
-
-
-
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN">
     <img src="https://img.shields.io/badge/LINKEDIN-555555?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a><a href="https://github.com/segunofe">
     <img src="https://img.shields.io/badge/CONNECT-1976D2?style=for-the-badge&logo=github&logoColor=white" />
-  </a><a href="https://medium.com/@YOUR-MEDIUM">
+  </a><a href="https://medium.com/@Segun-CloudDevOps">
     <img src="https://img.shields.io/badge/MEDIUM-555555?style=for-the-badge&logo=medium&logoColor=white" />
-  </a><a href="https://YOUR-ARTICLES-LINK">
+  </a><a href="https://medium.com/@Segun-CloudDevOps">
     <img src="https://img.shields.io/badge/ARTICLES-222222?style=for-the-badge" />
-  </a><a href="https://stackoverflow.com/users/YOUR-ID">
-    <img src="https://img.shields.io/badge/STACK%20OVERFLOW-555555?style=for-the-badge&logo=stackoverflow&logoColor=white" />
-  </a><a href="https://YOUR-PORTFOLIO.com">
+  </a><a href="https://medium.com/@Segun-CloudDevOps">
     <img src="https://img.shields.io/badge/PROFILE-F57C00?style=for-the-badge" />
   </a>
 </p>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
