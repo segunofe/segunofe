@@ -95,12 +95,11 @@ Terraform and Infrastructure as Code.
 
 ## 📜 Certifications
 
-- 🏆 Google Cloud Professional Cloud Architect
-- 🏆 AWS Certified Solutions Architect – Associate
-- 🏆 Google Cloud Associate Cloud Engineer
-- 🏆 HashiCorp Certified: Terraform Associate
+- Google Cloud Professional Cloud Architect
+- AWS Certified Solutions Architect – Associate
+- Google Cloud Associate Cloud Engineer
+- HashiCorp Certified: Terraform Associate
 
----
 ---
 
 ## 🤝 Let's Connect
