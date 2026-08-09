@@ -49,19 +49,23 @@
 
 ## ⭐ Featured Projects
 
-### ☁️ AWS Infrastructure with Terraform
-
-Reusable Terraform modules for provisioning AWS infrastructure,
-including networking, compute, databases and monitoring.
-
-👉 [View Project](https://github.com/segunofe/ReusableTerraformModules.git)
-
 ### 🛒 AWS E-Commerce Deployment
 
 Containerized and deployed a e-commerce application
 on AWS using Docker, Terraform and CI/CD.
 
 👉 [View Project](https://github.com/segunofe/Deploy-Ecommerce-Website-In-AWS-Using-Terraform.git)
+
+
+
+### ☁️ AWS Infrastructure with Terraform Modules 
+
+Reusable Terraform modules for provisioning 45 AWS infrastructure,
+including networking, compute, databases, IAM and monitoring.
+
+👉 [View Project](https://github.com/segunofe/ReusableTerraformModules.git)
+
+
 
 ### 🔐 Google Cloud Threat Detection & Incident Response
 
