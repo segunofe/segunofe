@@ -41,10 +41,8 @@
   <img src="https://img.shields.io/badge/Jenkins-2496ED?style=flat-square&logo=jenkins&logoColor=white">
   <img src="https://img.shields.io/badge/Azure DevOps-326CE5?style=flat-square&logo=azuredevops&logoColor=white">
 </p>
-  <br>
 
 ## ⭐ Featured Projects
-
 ### 🛒E-Commerce Deployment on Amazon EC2
 
 Containerized and deployed an e-commerce application on Amazon EC2. Automated the provisioning of Amazon RDS, Load balancer, Security Groups and more using Terraform 
