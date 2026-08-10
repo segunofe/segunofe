@@ -56,7 +56,7 @@ on AWS using Docker, Terraform
 👉 [View Project](https://github.com/segunofe/Deploy-Ecommerce-Website-In-AWS-Using-Terraform.git)
 
 
-### 🛒 CI/CD pipeline with GitHub Actions to automate deployment 
+### 🛒 CI/CD pipeline with GitHub Actions to automate deployment to Amazon ECS
 
 Integrated the following to the pipeline:
 * Terraform to automatically provision and manage 45 AWS infrastructures (ECS, RDS, Security Groups...)
