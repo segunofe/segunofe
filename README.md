@@ -48,23 +48,28 @@
 
 ## ⭐ Featured Projects
 
-### 🛒 AWS E-Commerce Deployment
+### 🛒E-Commerce Deployment on Amazon EC2
 
-Containerized and deployed an e-commerce application
-on AWS using Docker, Terraform
+Containerized and deployed an e-commerce application on Amazon EC2. Automated the provisioning of Amazon RDS, Load balancer, Security Groups and more using Terraform 
+* Multi-AZ deployment for high availability
+* Servers and database deployed in private subnets for security
+* Strict traffic flow between app layers using Security groups - principle of least privilege 
 
 👉 [View Project](https://github.com/segunofe/Deploy-Ecommerce-Website-In-AWS-Using-Terraform.git)
 
 
 ### 🛒 CI/CD pipeline with GitHub Actions to automate deployment to Amazon ECS
 
-Integrated the following to the pipeline:
+Integrated the following into the pipeline:
 * Terraform to automatically provision and manage 45 AWS infrastructures (ECS, RDS, Security Groups...)
 * Vulnerability Scan using Trivy
 * Real-time deployment notifications via Slack API
 * Automated rollback to prevent application downtime
 
 👉 [View Project](https://github.com/segunofe/aws-projects/tree/main)
+
+### 🛒 E-Commerce Deployment on Amazon EKS
+👉 [View Project](https://github.com/segunofe/aws-projects/tree/main/eks/nest-app)
 
 
 ### ☁️ AWS Infrastructure with Terraform Modules 
@@ -73,8 +78,6 @@ Reusable Terraform modules for provisioning 45 AWS infrastructure,
 including networking, compute, databases, IAM and monitoring.
 
 👉 [View Project](https://github.com/segunofe/ReusableTerraformModules.git)
-
-
 
 ### 🔐 Google Cloud Threat Detection & Incident Response
 
