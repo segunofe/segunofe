@@ -18,8 +18,6 @@
   </a>
 </p>
 
----
-
 ## 🚀 About Me
 
 💬 Ask me about Cloud engineering, Python, Terraform, Docker, Kubernetes, GitHub Actions, Azure DevOps, Jenkins
@@ -44,7 +42,6 @@
   <img src="https://img.shields.io/badge/Azure DevOps-326CE5?style=flat-square&logo=azuredevops&logoColor=white">
 </p>
   <br>
----
 
 ## ⭐ Featured Projects
 
