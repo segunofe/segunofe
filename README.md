@@ -39,11 +39,11 @@
   <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white">
   <img src="https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white">
   <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white">
-  <br>
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white">
   <img src="https://img.shields.io/badge/Jenkins-2496ED?style=flat-square&logo=jenkins&logoColor=white">
   <img src="https://img.shields.io/badge/Azure DevOps-326CE5?style=flat-square&logo=azuredevops&logoColor=white">
 </p>
+  <br>
 ---
 
 ## ⭐ Featured Projects
