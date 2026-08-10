@@ -65,16 +65,15 @@ Integrated the following into the pipeline:
 
 👉 [View Project](https://github.com/segunofe/aws-projects/tree/main)
 
-### 🛒 E-Commerce Deployment on Amazon EKS
-👉 [View Project](https://github.com/segunofe/aws-projects/tree/main/eks/nest-app)
-
 
 ### ☁️ AWS Infrastructure with Terraform Modules 
-
-Reusable Terraform modules for provisioning 45 AWS infrastructure,
-including networking, compute, databases, IAM and monitoring.
+Reusable Terraform modules for provisioning 45 AWS infrastructure, including networking, compute, databases, IAM and monitoring.
 
 👉 [View Project](https://github.com/segunofe/ReusableTerraformModules.git)
+
+
+### 🛒 E-Commerce Deployment on Amazon EKS
+👉 [View Project](https://github.com/segunofe/aws-projects/tree/main/eks/nest-app)
 
 ### 🔐 Google Cloud Threat Detection & Incident Response
 
