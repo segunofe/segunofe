@@ -70,8 +70,9 @@ Reusable Terraform modules for provisioning 45 AWS infrastructure, including net
 👉 [View Project](https://github.com/segunofe/ReusableTerraformModules.git)
 
 
-### 🛒 E-Commerce Deployment on Amazon EKS
-👉 [View Project](https://github.com/segunofe/aws-projects/tree/main/eks/nest-app)
+### 🛒 GO application deployment on Google Kubernetes Engine (GKE)
+Managed a GKE deployment by configuring the cluster, enabling Managed Prometheus monitoring, troubleshooting Kubernetes manifest and application errors, creating logs-based metrics and alerts, containerizing and pushing the application to Artifact Registry, and exposing and validating the service.
+👉 [View Project](https://github.com/segunofe/Manage-Kubernetes-in-Google-Cloud)
 
 
 ### 🔐 Enforce Security Compliance in AWS using Python & Amazon Lambda in an Automated Way
