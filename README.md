@@ -73,6 +73,13 @@ Reusable Terraform modules for provisioning 45 AWS infrastructure, including net
 ### 🛒 E-Commerce Deployment on Amazon EKS
 👉 [View Project](https://github.com/segunofe/aws-projects/tree/main/eks/nest-app)
 
+
+### 🔐 Enforce Security Compliance in AWS using Python & Amazon Lambda in an Automated Way
+
+Automatically detects and terminates EC2 instances with SSH open to the public, using a Python Lambda function triggered by Amazon EventBridge.
+
+👉 [View Project](https://github.com/segunofe/EnforceSecurityAWSLambdaPythonAutomation)
+
 ### 🔐 Google Cloud Threat Detection & Incident Response
 
 Implemented Google Cloud security infrastructure and threat
