@@ -48,7 +48,7 @@
 Containerized and deployed an e-commerce application on Amazon EC2. Automated the provisioning of Amazon RDS, Load balancer, Security Groups and more using Terraform 
 * Multi-AZ deployment for high availability
 * Servers and database deployed in private subnets for security
-* Strict traffic flow between app layers using Security groups - principle of least privilege 
+* Strict traffic flow between app layers using Security groups, following the principle of least privilege 
 
 👉 [View Project](https://github.com/segunofe/Deploy-Ecommerce-Website-In-AWS-Using-Terraform.git)
 
