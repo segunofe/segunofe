@@ -72,6 +72,7 @@ Reusable Terraform modules for provisioning 45 AWS infrastructure, including net
 
 ### 🛒 GO application deployment on Google Kubernetes Engine (GKE)
 Managed a GKE deployment by configuring the cluster, enabling Managed Prometheus monitoring, troubleshooting Kubernetes manifest and application errors, creating logs-based metrics and alerts, containerizing and pushing the application to Artifact Registry, and exposing and validating the service.
+
 👉 [View Project](https://github.com/segunofe/Manage-Kubernetes-in-Google-Cloud)
 
 
