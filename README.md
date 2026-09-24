@@ -1,8 +1,8 @@
 <h1 align="center">Hi, I'm Segun 👋</h1>
 
 <h4 align="center">
-  DevOps and Cloud Engineer · Python · AWS · Azure · GCP · Oracle · Docker · Kubernetes · Terraform · Ansible ·  CI/CD 
-</h4>
+  DevOps & Cloud Engineer · AWS · Azure · GCP · Oracle · Terraform · Docker · Kubernetes  ·Python · Ansible ·  CI/CD  · OpenTelemetry · Datadog · Prometheus · Grafana · Claude · Google AI Studio · Cursor
+</h4> 
 
 <p align="center">
   <a href="https://www.linkedin.com/in/segunofe/">
@@ -20,7 +20,7 @@
 
 ## 🚀 About Me
 
-💬 Ask me about Cloud engineering, Python, Terraform, Docker, Kubernetes, GitHub Actions, Azure DevOps, Jenkins
+DevOps Engineer with hands-on production experience provisioning and automating AWS, GCP and Azure infrastructure with Terraform, Docker, and Kubernetes (EKS/GKE/AKS), building CI/CD pipelines, and running monitoring and observability with Prometheus, Grafana, Datadog, and OpenTelemetry. Recently extended my DevOps expertise into deploying and observing production AI agent systems on AWS Bedrock AgentCore, Google ADK and Kubernetes, combining infrastructure automation with LLM/agent evaluation and monitoring.
 
 📍 Villach, Austria
 
