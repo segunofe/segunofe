@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Segun 👋</h1>
 
 <h4 align="center">
-  DevOps & Cloud Engineer · AWS · Azure · GCP · Oracle · Terraform · Docker · Kubernetes  ·Python · Ansible ·  CI/CD  · OpenTelemetry · Datadog · Prometheus · Grafana · Claude · Google AI Studio · Cursor
+  DevOps & Cloud Engineer · AWS · Azure · GCP · Oracle · Terraform · Docker · Kubernetes · Python · Ansible · CI/CD · OpenTelemetry · Datadog · Prometheus · Grafana · Claude · Google AI Studio · Cursor
 </h4> 
 
 <p align="center">
