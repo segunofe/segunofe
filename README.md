@@ -1,3 +1,4 @@
+<img width="2181" height="1309" alt="ArchitecturalD1" src="https://github.com/user-attachments/assets/9cdfac2a-015d-4029-a8ab-30593df7a5b7" />
 <h1 align="center">Hi, I'm Segun 👋</h1>
 
 <h4 align="center">
