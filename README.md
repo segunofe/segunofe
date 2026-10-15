@@ -44,6 +44,19 @@ DevOps Engineer with hands-on production experience provisioning and automating 
 </p>
 
 ## ⭐ Featured Projects
+
+### ☸️ Zero-Downtime Kubernetes Cluster Upgrade with a live application running on it (v1.34 → v1.35)
+
+Performed an end-to-end upgrade of a multi-node Kubernetes cluster from v1.34.0 to v1.35.0 using kubeadm, while keeping a live application available throughout. Documented the full runbook, including the pitfalls I hit along the way.
+
+- Zero-downtime rolling upgrade: drained, upgraded, and uncordoned one node at a time so workloads always had a healthy node to run on
+- Upgraded the control plane first, then the worker, to respect version-skew rules (the kube-apiserver must be at a version >= all other components)
+- Resolved real-world issues, such as the pinned apt repository for each minor version and DaemonSet-managed pods blocking `kubectl drain`
+- Completed with no extra VMs or infrastructure, with a repeatable procedure that scales to additional worker nodes
+
+👉 [View Project](https://github.com/segunofe/Upgrade-Kubernetes-cluster-using-kubeadm-from-version-v1.34.0-to-v1.35.0-with-live-app-running-on-it)
+
+
 ### 🛒E-Commerce Deployment on Amazon EC2
 
 Containerized and deployed an e-commerce application on Amazon EC2. Automated the provisioning of Amazon RDS, Load balancer, Security Groups and more using Terraform 
