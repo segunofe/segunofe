@@ -57,7 +57,7 @@ Performed an end-to-end upgrade of a multi-node Kubernetes cluster from v1.34.0 
 👉 [View Project](https://github.com/segunofe/Upgrade-Kubernetes-cluster-using-kubeadm-from-version-v1.34.0-to-v1.35.0-with-live-app-running-on-it)
 
 
-### 🛒E-Commerce Deployment on Amazon EC2
+### 🛒E-Commerce Deployment on Amazon EC2 (3-Tier Architecture)
 
 Containerized and deployed an e-commerce application on Amazon EC2. Automated the provisioning of Amazon RDS, Load balancer, Security Groups and more using Terraform 
 * Multi-AZ deployment for high availability
