@@ -105,8 +105,8 @@ detection capabilities using Cloud IDS and related services.
 
 ### 🚀 GCP Infrastructure with Terraform
 
-Designed and provisioned Google Cloud infrastructure using
-Terraform and Infrastructure as Code.
+Automate the provisioning, importation, and management of Google Cloud infrastructures using
+Terraform - an Infrastructure as Code (IaC) tool.
 
 👉 [View Project](https://github.com/segunofe/BuildInfrastructureWithTerraformOnGoogleCloud.git)
 
